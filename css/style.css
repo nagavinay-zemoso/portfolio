@@ -11,7 +11,10 @@ body{
 .para{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+header{
+    position: sticky;
+    top:0px;
+}
 nav{
     background-color: black;
     width: 100%;
